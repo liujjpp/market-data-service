@@ -1,0 +1,3 @@
+[submodule "renren-fast"]
+	path = renren-fast
+	url = https://gitee.com/renrenio/renren-fast.git
