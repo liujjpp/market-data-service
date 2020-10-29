@@ -1,6 +1,0 @@
-[submodule "renren-fast"]
-	path = renren-fast
-	url = https://gitee.com/renrenio/renren-fast.git
-[submodule "renren-fast-vue"]
-	path = renren-fast-vue
-	url = https://github.com/renrenio/renren-fast-vue.git
